@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import { Section, SectionHeader } from "./Section";
 import { profile } from "./data";
-import { GitBranch, Users, Mail, Phone, Send } from "lucide-react";
+import { GitBranch, Mail, Phone, Send } from "lucide-react";
 
 export function Contact() {
   const [sent, setSent] = useState(false);

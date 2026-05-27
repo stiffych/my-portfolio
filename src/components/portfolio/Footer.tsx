@@ -1,5 +1,5 @@
 import { profile } from "./data";
-import { GitBranch, Heart, Users, Mail } from "lucide-react";
+// import { GitBranch, Heart, Users, Mail } from "lucide-react";
 
 export function Footer() {
   return (
