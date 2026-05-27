@@ -3,7 +3,7 @@ import { Section, SectionHeader } from "./Section";
 import { skills } from "./data";
 import { Cpu, Database, Layout, Server, Smartphone, Wrench } from "lucide-react";
 
-const icons = [Server,Layout ,Smartphone, Database, Wrench, Cpu];
+const icons = [Server, Layout, Smartphone, Database, Wrench, Cpu];
 
 export function Skills() {
   return (
